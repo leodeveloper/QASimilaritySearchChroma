@@ -2,6 +2,7 @@ openai
 chromadb
 langchain
 langchain-openai 
+langchain-chroma
 tiktoken
 python-dotenv
 PyPDF2
